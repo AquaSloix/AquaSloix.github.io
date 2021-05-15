@@ -10,7 +10,8 @@
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 130,
-        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims."
+        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims.",
+        "thumbnail": "./images/camry.jpg"
     },
     {
         "id": 2,
@@ -18,12 +19,13 @@
         "availability": true,
         "brand": "Mercedes",
         "model": "Mercedes-GLC300",
-        "modelYear": 2013,
+        "modelYear": 2021,
         "mileage": 10000,
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 140,
-        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims."
+        "description": "Kia Motors is a South Korean automaker that's relatively new to the market .Kia largely catered to budget-minded consumers.",
+        "thumbnail": "./images/mercedes.png"
     },
     {
         "id": 3,
@@ -31,12 +33,13 @@
         "availability": true,
         "brand": "Honda",
         "model": "Honda-Civic",
-        "modelYear": 2013,
+        "modelYear": 2014,
         "mileage": 10000,
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 150,
-        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims."
+        "description": "Honda are known for their well-built, reliable cars, and are hugely popular across the world.",
+        "thumbnail": "./images/civic.png"
     },
     {
         "id": 4,
@@ -44,12 +47,13 @@
         "availability": true,
         "brand": "BMW",
         "model": "BMW-X6",
-        "modelYear": 2013,
+        "modelYear": 2021,
         "mileage": 10000,
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 160,
-        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims."
+        "description": "Prioritizing luxury and in-car technology versus satisfying driving characteristics.",
+        "thumbnail": "./images/bmw.jpg"
     },
     {
         "id": 5,
@@ -57,12 +61,13 @@
         "availability": true,
         "brand": "BMW",
         "model": "BMW-X6 (coupe)",
-        "modelYear": 2013,
+        "modelYear": 2021,
         "mileage": 10000,
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 170,
-        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims."
+        "description": "Prioritizing luxury and in-car technology versus satisfying driving characteristics.",
+        "thumbnail": "./images/bmw.jpg"
     },
     {
         "id": 6,
@@ -70,12 +75,13 @@
         "availability": true,
         "brand": "Ferrari",
         "model": "Ferrari 488 FTB",
-        "modelYear": 2013,
+        "modelYear": 2020,
         "mileage": 10000,
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 180,
-        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims."
+        "description": "Ferrari road cars are generally seen as a symbol of speed, luxury and wealth.",
+        "thumbnail": "./images/ferrari.jpg"
     },
     {
         "id": 7,
@@ -83,12 +89,13 @@
         "availability": true,
         "brand": "Subaru",
         "model": "Subaru Outback",
-        "modelYear": 2013,
+        "modelYear": 2017,
         "mileage": 10000,
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 190,
-        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims."
+        "description": "Subaru cars are known for their use of a boxer engine layout in most vehicles and petrol friendly.",
+        "thumbnail": "./images/subaru.jpg"
     },
     {
         "id": 8,
@@ -96,12 +103,13 @@
         "availability": false,
         "brand": "KIA",
         "model": "KIA-Rio",
-        "modelYear": 2013,
+        "modelYear": 2016,
         "mileage": 10000,
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 196,
-        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims."
+        "description": "Kia Motors is a South Korean automaker that's relatively new to the market .Kia largely catered to budget-minded consumers.",
+        "thumbnail": "./images/kia.jpg"
     },
     {
         "id": 9,
@@ -109,12 +117,13 @@
         "availability": false,
         "brand": "Porsche",
         "model": "Porsche-911-Targa",
-        "modelYear": 2013,
+        "modelYear": 2019,
         "mileage": 10000,
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 770,
-        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims."
+        "description": "Porsche is a German automobile manufacturer specializing in high-performance sports cars.",
+        "thumbnail": "./images/porsche.jpg"
     },
     {
         "id": 10,
@@ -122,11 +131,12 @@
         "availability": false,
         "brand": "Honda",
         "model": "Honda-Odyssey",
-        "modelYear": 2013,
+        "modelYear": 2020,
         "mileage": 10000,
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 800,
-        "description": "The Toyota Camry is America's best-selling midsize sedan. Toyota claims the Camry is the safest, quietest, most fuel-efficient car in its class, and we have no reason to doubt those claims."
+        "description": "Kia Motors is a South Korean automaker that's relatively new to the market .Kia largely catered to budget-minded consumers.",
+        "thumbnail": "./images/odyssey.jpg"
     }
 ]

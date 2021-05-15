@@ -25,7 +25,7 @@
       <div class="container">
         <div class="carsInfo">
           <div class="car" v-for="car in carsData" :key="car.id">
-            <img src="./images/camry.jpg" style="width: fit; height: 100px; margin-bottom: 15px;" alt="">
+            <img :src="car.thumbnail" style="width: fit; height: 100px; margin-bottom: 15px;" alt="">
             <h5 style="margin-bottom: 20px;">{{ car.model }}</h1>
             <div class="carsInfoDetail" style="margin-bottom: 10px;">
               <p><b>mileage</b>: {{ car.mileage }} kms</p>
