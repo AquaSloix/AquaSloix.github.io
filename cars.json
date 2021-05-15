@@ -24,7 +24,7 @@
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 140,
-        "description": "Kia Motors is a South Korean automaker that's relatively new to the market .Kia largely catered to budget-minded consumers.",
+        "description": "Mercedes-Benz makes perhaps the most advanced, luxurious, and performance-oriented.",
         "thumbnail": "./images/mercedes.png"
     },
     {
@@ -136,7 +136,7 @@
         "fuelType": "petrol",
         "seats": 5,
         "pricePerDay": 800,
-        "description": "Kia Motors is a South Korean automaker that's relatively new to the market .Kia largely catered to budget-minded consumers.",
+        "description": "The 2020 Honda Odyssey has nearly everything we like in a family vehicle.",
         "thumbnail": "./images/odyssey.jpg"
     }
 ]
